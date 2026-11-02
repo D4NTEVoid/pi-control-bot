@@ -120,7 +120,3 @@ Unavailable metrics are reported as unavailable rather than treated as zero.
 - Do not commit `.env` files or credentials.
 - Avoid running the bot with unnecessary privileges.
 - Keep Python dependencies and Raspberry Pi OS updated.
-
-## License
-
-See the repository's license file.
